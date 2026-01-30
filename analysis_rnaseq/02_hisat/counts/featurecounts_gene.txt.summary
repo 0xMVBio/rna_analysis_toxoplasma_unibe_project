@@ -1,0 +1,15 @@
+Status	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821918.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821919.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821920.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821921.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821922.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821923.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821924.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821925.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821927.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821937.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821938.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821939.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821940.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821941.sorted.bam	/data/users/mvaldivia/rna_seq_course/analysis_rnaseq/02_hisat/bam_files/SRR7821942.sorted.bam
+Assigned	28623854	28145488	27844407	31342585	29035249	29599511	41883764	26001582	23552283	35180983	33644018	36728808	27804631	31320278	34492318
+Unassigned_Unmapped	323782	250884	1148912	295828	263683	844399	670959	656627	511911	350906	401878	214860	568827	360453	489828
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	1551882	1691407	3297419	1951133	1817653	1747228	2371525	1669819	1379998	1833953	1703396	1596489	1938534	1350993	1482024
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	644005	740713	2090558	957570	762179	619802	925254	432849	636127	764356	466158	450627	1013086	499343	747717
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	6251670	6056384	6924535	6706623	6438435	7099921	8719357	6187888	6033676	7502993	4918084	8491454	6045156	6315439	6819143
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2767144	3335850	4603147	3765726	3723938	3460402	5809432	4043717	3713629	4084213	2895814	4429707	3634100	3391344	4419281
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	555593	553379	494223	606865	528282	500185	681377	408275	382075	523475	557982	540638	425443	468022	541039

@@ -1,0 +1,39 @@
+# Large data files - don't track
+*.bam
+*.bai
+*.sam
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.gtf
+*.gtf.gz
+*.ht2
+
+# Reference genome files
+analysis_rnaseq/02_hisat/ref_genome/
+analysis_rnaseq/02_hisat/mmus_index/
+analysis_rnaseq/02_hisat/bam_files/
+
+# FastQC individual files (keep multiqc summary only)
+analysis_rnaseq/01_fastqc/*.html
+analysis_rnaseq/01_fastqc/*.zip
+
+# Temp files
+*.tmp
+*.temp
+.Rhistory
+.RData
+.DS_Store
+
+# Log files from cluster jobs
+*.err
+*.out
+logs/
+
+# Private notes
+PROJECT_STATUS.md
